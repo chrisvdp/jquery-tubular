@@ -1,9 +1,9 @@
-* This is my fork.
+# This my fork.
 
-*** Goals
-add chromeless player controls
-make html5 video compatible
-make extensible for other divs besides just the background
+### Goals
+* add chromeless player controls
+* make html5 video compatible
+* make extensible for other divs besides just the background
 
 
 Please refer to instructions.txt for more information.
