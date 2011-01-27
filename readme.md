@@ -10,4 +10,4 @@ Please refer to instructions.txt for more information.
 
 or
 
-Sean McCambridge's site: http://www.seanmccambridge.com/tubular
+Sean McCambridge's [site](http://www.seanmccambridge.com/tubular/) has good documentation and a demo.
